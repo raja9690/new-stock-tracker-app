@@ -7,11 +7,9 @@
 
 This project uses `Fauna` as the data store. Plesae make sure to create an account with [Fauna](https://fauna.com/). Clone this project and follw these steps.
 
-- Create a database in Fauna called, `shopnotes`.
-- Upload the [shopnotes.gql](https://github.com/atapas/shopnote/blob/main/shopnotes.gql) file to the database created.
+- Create a database in Fauna DB
 - Create the server secret key.
 - Clone the project.
-- Chage directory to the project locally(cd shopnote).
 - Install `netlify-cli` globally,
  ```shell
  npm install -g netlify-cli
