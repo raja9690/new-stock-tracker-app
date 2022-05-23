@@ -1,18 +1,7 @@
 <h1 align="center">
-  Jamstack Shopnote
+  Jamstack STOCK TRACKER APP
 </h1>
 
-`shopnote` is a JAMstack application helps in creating notes with shopping items. This application is built to showcase the JAMstack concept using `Fauna`, `Netlify Serverless Functions` and `GatsbyJS`. This is a sample application and should be used only for the learning purpose.
-
-# Many Thanks to all the `Stargazers` who has supported this project with stars(⭐)
-
-[![Stargazers repo roster for @atapas/shopnote](https://reporoster.com/stars/atapas/shopnote)](https://github.com/atapas/shopnote/stargazers)
-
-<p align="center">
-  <a href="https://shopnote.netlify.app/">
-    <img alt="shopnote" src="./site/screen.png"/>
-  </a>
-</p>
 
 # How to run
 
