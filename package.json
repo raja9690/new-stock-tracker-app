@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/atapas/shopnote.git"
+    "url": "git+https://github.com/raja9690/new-stock-tracker-app.git"
   },
   "keywords": [
     "Fauna",
@@ -22,9 +22,9 @@
   "author": "Tapas Adhikary",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/atapas/shopnote/issues"
+    "url": "https://github.com/raja9690/new-stock-tracker-app/issues"
   },
-  "homepage": "https://github.com/atapas/shopnote#readme",
+  "homepage": "https://github.com/raja9690/new-stock-tracker-app#readme",
   "dependencies": {
     "@emotion/react": "^11.9.0",
     "@emotion/styled": "^11.8.1",
